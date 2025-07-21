@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"map_name": "GasStation",
+	"map_path": "_maps/GasStation",
+	"map_file": "GasStation.dmm",
+	"shuttles": {
+
+	},
+
+	"planetary": 1
+}
